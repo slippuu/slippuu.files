@@ -1,4 +1,5 @@
 {
     "security.workspace.trust.untrustedFiles": "open",
-    "explorer.confirmDelete": false
+    "explorer.confirmDelete": false,
+    "git.enableSmartCommit": true
 }
